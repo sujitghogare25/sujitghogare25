@@ -1,5 +1,5 @@
 
-## Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
+## Hey!! Great to see you here! 
 
 <a href="https://itssg001.github.io/PORTFOLIO-2/"><img src="/src/banner.png"></a>
 
