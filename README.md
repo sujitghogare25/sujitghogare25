@@ -73,8 +73,7 @@ Find out more about me & feel free to connect with me here:
 ### 💻 Workspace
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Satats
-![stats]	https://github-readme-stats.vercel.app/api/top-langs/?username={itssg001}&theme=blue-green
+
 
 
 
