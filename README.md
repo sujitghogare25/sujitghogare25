@@ -39,7 +39,7 @@ Find out more about me & feel free to connect with me here:
 ### Resume
 
 <a herf="/src/Resume.pdf">
-<img src="/src/RESUME.png" height="10px" width="70px"/>
+<img src="/src/RESUME.png" height="30px" width="100px"/>
 </a>
 
 ### 🚀 Languages
