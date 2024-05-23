@@ -1,7 +1,7 @@
 
 ## Hey!! Great to see you here! 
 
-<a href="https://itssg001.github.io/PORTFOLIO-2/"><img src="/src/banner.png"></a>
+<a href="https://itssg001.github.io/PORTFOLIO-2/"><img src="/src/banner.png" height="300px" width="100%"></a>
 
 * 📖 Pursuing my Bachelor's in Computer Science and Engineering from [Chhatrapati Shivaji Maharaj University, Navi Mumbai](https://csmu.ac.in/). 
 
@@ -77,7 +77,8 @@ Find out more about me & feel free to connect with me here:
 ### 💻 Workspace
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
+### Stats
+![Sujit's github stats](https://github-readme-stats.vercel.app/api?username=itssg001&count_private=true)
 
 
 
