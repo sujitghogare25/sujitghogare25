@@ -9,7 +9,7 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Learning [Node.js](https://nodejs.org/en).
+* 💻 Learning [Go Lang](https://go.dev/).
 
 Find out more about me & feel free to connect with me here:
 
