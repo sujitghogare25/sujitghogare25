@@ -77,7 +77,7 @@ Find out more about me & feel free to connect with me here:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Stats
-![Sujit's github stats](https://github-readme-stats.vercel.app/api?username=itssg001&count_private=true)
+![Sujit's github stats](https://github-readme-stats.vercel.app/api?username=sujitghogare25&count_private=true)
 
 
 
