@@ -1,7 +1,7 @@
 
 ## Hey!! Great to see you here! 
 
-<a href="https://itssg001.github.io/PORTFOLIO-2/"><img src="/src/banner.png" height="300px" width="100%"></a>
+<a href="https://sujitghogare.netlify.app/"><img src="/src/banner.png" height="300px" width="100%"></a>
 
 * 📖 Pursuing my Bachelor's in Computer Science and Engineering from [Chhatrapati Shivaji Maharaj University, Navi Mumbai](https://csmu.ac.in/). 
 
@@ -29,7 +29,7 @@ Find out more about me & feel free to connect with me here:
 <!-- 	<a href="https://asmit.bio.link/">
 		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
 	</a> -->
-        <a href="mailto:spghogare456@gmail.com">
+        <a href="mailto:hier.sujitghogare@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
@@ -38,7 +38,7 @@ Find out more about me & feel free to connect with me here:
 
 ### Resume
 
-<a herf="/src/Resume.pdf">
+<a href="/src/Resume.pdf">
 <img src="/src/RESUME.png" height="30px" width="100px"/>
 </a>
 
