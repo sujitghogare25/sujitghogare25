@@ -1,18 +1,20 @@
-## Hey!! Great to see you here!
+## 🚀 Hey!! Great to see you here! 
 
 <a href="https://sujitghogare.netlify.app/"><img src="/src/banner.png" height="300px" width="100%"></a>
 
 ### 👋 About Me
 
-- 🎓 Pursuing my Bachelor's in Computer Science and Engineering from [Chhatrapati Shivaji Maharaj University, Navi Mumbai](https://csmu.ac.in/).
-- 💻 Frontend Developer and UI/UX Designer passionate about creating intuitive and engaging digital experiences.
-- 🚀 Always eager to collaborate on innovative projects and learn new technologies.
-- 🌱 Currently learning [Go Lang](https://go.dev/) to expand my backend expertise.
-- 🏆 Open to internships, freelance work, and tech collaborations.
+- 🎓 **Pursuing my Bachelor's in Computer Science and Engineering** from [Chhatrapati Shivaji Maharaj University, Navi Mumbai](https://csmu.ac.in/).
+- 💻 **Frontend Developer & UI/UX Designer** passionate about crafting seamless digital experiences.
+- 🚀 **Tech Enthusiast**, always on the lookout for innovative projects and opportunities to collaborate.
+- 🌱 **Currently mastering [Go Lang](https://go.dev/)** to expand my backend development skills.
+- 🏆 **Open to internships, freelance work, and networking opportunities.**
+
+---
 
 ### 🌐 Connect With Me
 
-<p align="start">
+<p align="center">
     <a href="https://www.linkedin.com/in/sujit-ghogre-783b5721a/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -32,27 +34,27 @@
 ### 📄 Resume
 
 <a href="/src/Resume.pdf">
-    <img src="/src/RESUME.png" height="30px" width="100px"/>
+    <img src="/src/RESUME.png" height="40px" width="120px"/>
 </a>
 
 ---
 
 ### 🚀 Languages & Technologies
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-### 🧩 Libraries & Frameworks
+### 📦 Libraries & Frameworks
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
@@ -65,7 +67,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
@@ -78,7 +80,14 @@
 
 ### 📊 GitHub Stats
 
-![Sujit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujitghogare25&count_private=true&show_icons=true&theme=radical)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sujitghogare25&count_private=true&show_icons=true&theme=radical" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitghogare25&layout=compact&theme=radical" width="48%"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujitghogare25&layout=compact&theme=radical)
+---
+
+### 🚀 Let's Build Something Great Together!
+
+I am always open to collaborating on exciting projects and innovative ideas. Feel free to reach out if you’d like to discuss something tech-related!
 
